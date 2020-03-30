@@ -1,9 +1,9 @@
 {
-  "name": "oc-careers",
+  "name": "oc-helpdesk",
   "version": "1.0.0",
-  "description": "Documentation for OC-Careers",
+  "description": "Documentation for OC-Helpdesk",
   "main": "index.js",
-  "repository": "https://github.com/fytinnovations/oc-careers.git",
+  "repository": "https://github.com/fytinnovations/oc-helpdesk.git",
   "author": "fytinnovations",
   "license": "ISC",
   "devDependencies": {

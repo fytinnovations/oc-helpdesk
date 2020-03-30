@@ -16,7 +16,7 @@ footer: Copyright © 2018-present Fytinnovations
 
 ::: tip OFFER
 
- :timer_clock: Hurry Up !!! :tada: :confetti_ball: Use coupon code `FIRST5` for Mega Discount for first 5 users only. [Install Now](https://octobercms.com/plugin/fytinnovations-careers).  :tada:
+ :timer_clock: Hurry Up !!! :tada: :confetti_ball: Use coupon code `FIRST5` for Mega Discount for first 5 users only. [Install Now](https://octobercms.com/plugin/fytinnovations-helpdesk).  :tada:
 
 :::
 
@@ -27,5 +27,5 @@ footer: Copyright © 2018-present Fytinnovations
 
 ## Links
 
-- [GitHub Documentation](https://github.com/fytinnovations/oc-careers) for posting issues and questions
-- [October Marketplace](https://octobercms.com/plugin/fytinnovations-careers)
+- [GitHub Documentation](https://github.com/fytinnovations/oc-helpdesk) for posting issues and questions
+- [October Marketplace](https://octobercms.com/plugin/fytinnovations-helpdesk)
