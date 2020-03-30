@@ -1,9 +1,9 @@
-# Careers
+# Helpdesk
 
-## Hire Talents from your OctoberCMS Website
+## An Issue Tracking System for OctoberCMS
 
-For documentation please visit [Careers official documentation](https://oc-careers.fytinnovations.com)
+For documentation please visit [Careers official documentation](https://oc-helpdesk.fytinnovations.com)
 
-Create issues [here](https://github.com/fytinnovations/oc-careers/issues)
+Create issues [here](https://github.com/fytinnovations/oc-helpdesk/issues)
 
-Install the plugin from the OctoberCMS [marketplace](https://octobercms.com/plugin/fytinnovations-careers)
+Install the plugin from the OctoberCMS [marketplace](https://octobercms.com/plugin/fytinnovations-helpdesk)
