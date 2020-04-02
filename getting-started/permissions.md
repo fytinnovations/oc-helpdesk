@@ -10,4 +10,4 @@ This permission will allow the user to the manage the entire helpdesk with the e
 
 ## Assign Tickets
 
-Only users have this permissions would be able to assign tickets to other users.
+ Support staff with this permission have the ability to assign the tickets to other support staff 
