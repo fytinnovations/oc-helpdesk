@@ -13,6 +13,7 @@ module.exports = {
           children: [
               "/getting-started/installation",
               "/getting-started/configuration",
+              "/getting-started/permissions"
           ]
         },
         ['features', 'Upcoming Features !']
