@@ -22,5 +22,5 @@ The easiest way to get you started is by using the command line:
 php artisan plugin:install rainlab.user
 php artisan plugin:install rainlab.location
 php artisan plugin:install rainlab.translate
-php artisan plugin:install fytinnovations.careers
+php artisan plugin:install fytinnovations.helpdesk
 ```
