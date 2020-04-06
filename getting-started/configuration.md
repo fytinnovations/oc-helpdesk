@@ -10,7 +10,7 @@ The plugin contains some configuration settings which you may find useful. If yo
 
 The default mode for notifications is email. Please ensure that you have a working SMTP Server configured before enabling the below features.
 
-### Notify agents when tickets are assigned to them
+### Notify all the assignee when a ticket is assigned
 
 Enable this feature will notify the agent via email when a ticket is assigned to them by the supervisor.
 
