@@ -8,7 +8,7 @@ The plugin contains some configuration settings which you may find useful. If yo
 
 ## Notifications
 
-The default mode for notifications is email. Please ensure that you have a working SMTP Server configured before enabling the below features.
+The default mode for notifications is email. Please ensure that you have a working SMTP Server configured before enabling the below notifications.
 
 ### Notify all the assignee when a ticket is assigned
 
