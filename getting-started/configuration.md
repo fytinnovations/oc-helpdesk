@@ -12,20 +12,20 @@ The default mode for notifications is email. Please ensure that you have a worki
 
 ### Notify all the assignee when a ticket is assigned
 
-Enable this feature will notify the agent via email when a ticket is assigned to them by the supervisor.
+Support agents will be notified when a ticket is assigned to them by the supervisor
 
-### Notify supervisors when new tickets are created
+### Notify supervisors when new a ticket is created
 
-This feature will email supervisors when there is a ticket submitted by the end user.
+Supervisors will be notified whenever a new ticket is submitted by the end user.
 
-### Notify users and agents when there is a comment on the ticket
+### Notify users and all the assignee when there is a comment on the ticket
 
-After the ticket has been created and assigned to a agent. There can be a conversation on the basis of the ticket. Enabling this feature will email the agent and the user on each and every comment.
+All the assignee and the end user be notified for every public comment on the ticket
 
-### Notify users, supervisor, assignees when there is a change in the status of the ticket
+### Notify users, supervisor and all the assignee when there is a change in the status of the ticket
 
-When there is a change in the status of the ticket "i.e the ticket get closed" the respective users will be notified.
+When the status of the ticket changes the end user, supervisor and all the assignee will be notified
 
-### Notify agents when there is a private comment on the ticket
+### Notify all the assignee when there is a private comment on the ticket
 
 This plugin provides a feature for posting private comments so that different agents can talk to each other without the knowledge of the end user. Enabling this feature will notify the agents for those private comments.
