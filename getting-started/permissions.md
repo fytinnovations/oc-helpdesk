@@ -14,7 +14,7 @@ Helpdesk has a very simple set of permissions namely **Manage HelpDesk**, **Assi
 
 1. **Manage Helpdesk**
 
-    user can manage the entire helpdesk.
+    user can manage the helpdesk's settings page and will also be able to delete records from the system.
 
 2. **Assign Tickets**
 
@@ -24,15 +24,15 @@ Helpdesk has a very simple set of permissions namely **Manage HelpDesk**, **Assi
 
     user can assign tickets to himself.
 
-4. **Create Tickets**
+4. **Manage Assigned Ticket**
 
-    user can create tickets.
+    user can manage his ticket (change status, change priority, write a private comment). user cannot delete the ticket though.
 
-## Default Roles and Permissions Mapping
+## Recommended Roles and Permissions Mapping
 
-| Permissions/Roles | Supervisor       | Support Agent    | End User         |
-| ----------------- |:----------------:|:----------------:|:----------------:|
-| Manage Helpdesk   |:heavy_check_mark:|                  |                  |
-| Assign Tickets    |:heavy_check_mark:|                  |                  |
-| Self Assign Ticket|:heavy_check_mark:|:heavy_check_mark:|                  |
-| Create Tickets    |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+| Permissions/Roles     | Supervisor       | Support Agent    | End User         |
+| ----------------------|:----------------:|:----------------:|:----------------:|
+| Manage Helpdesk       |:heavy_check_mark:|                  |                  |
+| Assign Ticket         |:heavy_check_mark:|                  |                  |
+| Self Assign Ticket    |:heavy_check_mark:|:heavy_check_mark:|                  |
+| Manage Assigned Ticket|:heavy_check_mark:|:heavy_check_mark:|                  |
