@@ -26,7 +26,7 @@ Helpdesk has a very simple set of permissions namely **Manage HelpDesk**, **Assi
 
 4. **Manage Assigned Ticket**
 
-    user can manage his ticket (change status, change priority, write a private comment). user cannot delete the ticket though.
+    user can manage ticket assigned to him (change status, change priority, write a private comment). user cannot delete the ticket though.
 
 ## Recommended Roles and Permissions Mapping
 
