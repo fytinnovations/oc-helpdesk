@@ -23,6 +23,10 @@ module.exports = {
         {
           text: "Marketplace",
           link: "https://octobercms.com/plugin/fytinnovations-helpdesk"
+        },
+        {
+          text: "FYT innovations",
+          link: "https://www.fytinnovations.com/"
         }
       ],
       docsRepo: "fytinnovations/oc-helpdesk",
