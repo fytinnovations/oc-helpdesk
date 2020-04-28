@@ -16,6 +16,14 @@ module.exports = {
               "/getting-started/permissions"
           ]
         },
+        {
+          title: "Components",
+          children: [
+            "/components/ticketlist",
+            "/components/ticketform",
+            "/components/ticketdetails"
+          ]
+        },
         ['features', 'Upcoming Features !']
       ],
       nav: [
