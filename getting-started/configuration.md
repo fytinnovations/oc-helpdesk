@@ -14,6 +14,10 @@ The default mode for notifications is email. Please ensure that you have a worki
 
 Support agents will be notified when a ticket is assigned to them by the supervisor
 
+### Notify all the assignee when there is a private comment on the ticket
+
+This plugin provides a feature for posting private comments so that different agents can talk to each other without the knowledge of the end user. Enabling this feature will notify the agents for those private comments.
+
 ### Notify supervisors when new a ticket is created
 
 Supervisors will be notified whenever a new ticket is submitted by the end user.
@@ -26,6 +30,18 @@ All the assignee and the end user be notified for every public comment on the ti
 
 When the status of the ticket changes the end user, supervisor and all the assignee will be notified
 
-### Notify all the assignee when there is a private comment on the ticket
+## Status Mapping
 
-This plugin provides a feature for posting private comments so that different agents can talk to each other without the knowledge of the end user. Enabling this feature will notify the agents for those private comments.
+Map default status of the ticket based on different events.
+
+### New Ticket Status
+
+Choose the status of the ticket when a new ticket is created. Default: Open
+
+### Closed Ticket Staus
+
+Choose the status of the ticket when a ticket is closed. Default: Closed
+
+### Reopened Ticket Status
+
+Choose the status of the ticket when a ticket is reopened.Default: Open

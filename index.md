@@ -5,18 +5,18 @@ heroImage: /assets/img/helpdeskhero.png
 actionText: Get Started →
 actionLink: /getting-started/installation
 features:
-- title: Easy Setup with no overhead configurations
-  details: If you want to build your own careers page in no time you are the right place.One click setup of your own careers page.
-- title: Add Dynamics to your Job post
-  details: Easily add skills required, Department, No of positions open  and job description to a job post.Create categories such as full time, part time, remote etc for your job post.
-- title: Total Control with Handy Notifications
-  details: It  provides the admin with an Application dashboard to sort and view all the applications.It also allows you to turn on email notifcations for an application recieved, for as many email addresses you wish.
-footer: Copyright © 2018-present Fytinnovations
+- title: Private Comments
+  details: For internal communication between the support team, Plugin allows you to post a private comment on the ticket.
+- title: Powerfull Assignee Management
+  details: Supervisors can easily assign one or more agents to the ticket. Agents can easily collaborate and resolve high priority tickets which needs to be addressed immediately.
+- title: Track each and every event
+  details: Notification settings panel allows all the stakeholders of the ticket to be  notified on various events such as ticket creation, comment on the ticket, private comments, change of status and many more !
+footer: Copyright © 2018-present FYTInnovations
 ---
 
 ::: tip OFFER
 
- :timer_clock: Hurry Up !!! :tada: :confetti_ball: Use coupon code `FIRST5` for Mega Discount for first 5 users only. [Install Now](https://octobercms.com/plugin/fytinnovations-helpdesk).  :tada:
+ :timer_clock: Hurry Up !!! :tada: :confetti_ball: Use coupon code `RELIEF` for  Discount. Offer valid till 30th May 2020 [Install Now](https://octobercms.com/plugin/fytinnovations-helpdesk).  :tada:
 
 :::
 

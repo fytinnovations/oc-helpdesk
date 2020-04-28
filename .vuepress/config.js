@@ -12,8 +12,8 @@ module.exports = {
           title: "Getting Started",
           children: [
               "/getting-started/installation",
-              "/getting-started/configuration",
-              "/getting-started/permissions"
+              "/getting-started/permissions",
+              "/getting-started/configuration"
           ]
         },
         {
@@ -23,8 +23,7 @@ module.exports = {
             "/components/ticketform",
             "/components/ticketdetails"
           ]
-        },
-        ['features', 'Upcoming Features !']
+        }
       ],
       nav: [
         { text: "Guide", link: "/" },
