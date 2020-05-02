@@ -5,12 +5,17 @@ heroImage: /assets/img/helpdeskhero.png
 actionText: Get Started →
 actionLink: /getting-started/installation
 features:
+- title: Team Collaboration
+  details: Some issues may require one or more support staff to solve it. Plugin allows you to assign more than one assignee to a ticket. The combined effort for closing a ticet is reflected on the dashboard under both the assignees.
 - title: Private Comments for better collaboration
   details: For internal communication between the support team, Plugin allows you to post a private comment on the ticket.
 - title: Powerfull Assignee Management
   details: Supervisors can easily assign one or more agents to the ticket. Agents can easily collaborate and resolve high priority tickets which needs to be addressed immediately.
 - title: Track each and every event
   details: Notification settings panel allows all the stakeholders of the ticket to be  notified on various events such as ticket creation, comment on the ticket, private comments, change of status and many more !
+- title: Built-in default configurations
+  details: Plugin is ready to be used out of the box, we have made sure to configure the basic settings and seed essential data for you.
+
 
 footer: Copyright © 2018-present FYTInnovations
 ---
