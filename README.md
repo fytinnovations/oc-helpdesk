@@ -1,6 +1,6 @@
 # Helpdesk
 
-## An Issue Tracking System for OctoberCMS
+## An issue tracking system built to assist your customer support team
 
 For documentation please visit [Helpdesk official documentation](https://oc-helpdesk.fytinnovations.com)
 

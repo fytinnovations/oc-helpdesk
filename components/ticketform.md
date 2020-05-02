@@ -10,8 +10,8 @@ The component provides a form to create a ticket. User fills in the information 
 
 | Value                     | Description                                                  | Default                                                     | Required |
 |---------------------------|--------------------------------------------------------------|-------------------------------------------------------------|----------|
-| ticketSuccessMessage      | String to be displayed after ticket is created successfully. | Your ticket has been submitted. We'll get back to you soon. | No       |
-| ticketSuccessRedirectPage | Page to redirect after ticket is created successfully.       | support                                                     | No       |
+| ticketSuccessMessage      | String to be displayed after the ticket is created successfully. | Your ticket has been submitted. We'll get back to you soon. | No       |
+| ticketSuccessRedirectPage | Page to redirect after the ticket is created successfully.       | support                                                     | No       |
 
 ## Sample Page
 
