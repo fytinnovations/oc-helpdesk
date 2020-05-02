@@ -1,12 +1,12 @@
 ---
 home: true
-heroText: Helpdesk
+heroText: Helpdesk - Plugin for OctoberCMS 
 heroImage: /assets/img/helpdeskhero.png
 actionText: Get Started →
 actionLink: /getting-started/installation
 features:
 - title: Team Collaboration
-  details: Some issues may require one or more support staff to solve it. Plugin allows you to assign more than one assignee to a ticket. The combined effort for closing a ticet is reflected on the dashboard under both the assignees.
+  details: Some issues may require one or more support staff to solve it. The plugin allows you to assign more than one assignee to a ticket. The combined effort for closing a ticket is reflected on the dashboard under both the assignees.
 - title: Private Comments for better collaboration
   details: For internal communication between the support team, Plugin allows you to post a private comment on the ticket.
 - title: Powerfull Assignee Management
@@ -25,6 +25,11 @@ footer: Copyright © 2018-present FYTInnovations
  :timer_clock: Hurry Up !!! :tada: :confetti_ball: Use coupon code `RELIEF` for  Discount. Offer valid till 30th May 2020 [Install Now](https://octobercms.com/plugin/fytinnovations-helpdesk).  :tada:
 
 :::
+
+## About
+
+Helpdesk is an issue tracking system built to assist your customer support team. Helpdesk allows your customer to interactively engage with your support team by raising issues, commenting on it and receiving constant updates via email.
+We have built helpdesk keeping the industry requirements in mind, thus guaranteeing maximum customer satisfaction.
 
 ## Requirements
 

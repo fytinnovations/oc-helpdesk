@@ -16,19 +16,19 @@ Support agents will be notified when a ticket is assigned to them by the supervi
 
 ### Notify all the assignee when there is a private comment on the ticket
 
-This plugin provides a feature for posting private comments so that different agents can talk to each other without the knowledge of the end user. Enabling this feature will notify the agents for those private comments.
+This plugin provides a feature for posting private comments so that different agents can talk to each other without the knowledge of the end-user. Enabling this feature will notify the agents for those private comments.
 
 ### Notify supervisors when new a ticket is created
 
-Supervisors will be notified whenever a new ticket is submitted by the end user.
+Supervisors will be notified whenever a new ticket is submitted by the end-user.
 
 ### Notify users and all the assignee when there is a comment on the ticket
 
-All the assignee and the end user be notified for every public comment on the ticket
+All the assignee and the end-user notified for every public comment on the ticket
 
 ### Notify users, supervisor and all the assignee when there is a change in the status of the ticket
 
-When the status of the ticket changes the end user, supervisor and all the assignee will be notified
+When the status of the ticket changes the end-user, supervisor and all the assignee will be notified
 
 ## Status Mapping
 

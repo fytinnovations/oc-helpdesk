@@ -15,7 +15,7 @@ Helpdesk has a very simple set of permissions namely **Manage Helpdesk Settings*
 1. **Manage Helpdesk Settings**
 
     - user can manage the helpdesk's settings page and will also be able to delete records from the system.
-    - user can assign and unassign tickets to other users.
+    - users can assign and unassign tickets to other users.
 
 2. **Resolve Tickets**
 

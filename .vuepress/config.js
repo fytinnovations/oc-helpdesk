@@ -1,7 +1,7 @@
 module.exports = {
     base: "/",
     title: "Helpdesk - Plugin for OctoberCMS",
-    description: "An Issue Tracking System for OctoberCMS",
+    description: "An issue tracking system built to assist your customer support team",
     head: [
       ['link', { rel: 'icon', href: '/assets/img/helpdesklogo.png' }]
     ],
