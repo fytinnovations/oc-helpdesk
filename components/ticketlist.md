@@ -4,7 +4,7 @@ sidebarDepth: 3
 
 # TicketList
 
-The component displays the list of ticket created by the user. User has to be logged in to view the list of tickets.
+The component displays the list of ticket created by the user. User needs to use the session component of the RainLab.User plugin and has to be logged in to view the list of tickets.
 
 ## Properties
 
@@ -42,7 +42,11 @@ noTicketsMessage = "No tickets found"
 </div>
 
 <div class="container">
-    {% component 'ticketList' %}
+    {% if user %}
+        {% component 'ticketList' %}
+    {% else %}
+        <p>Please login to access all your tickets</p>
+    {% endif %}
 </div>
 
 ```
