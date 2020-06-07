@@ -20,12 +20,6 @@ features:
 footer: Copyright © 2018-present FYTInnovations
 ---
 
-::: tip OFFER
-
- :timer_clock: Hurry Up !!! :tada: :confetti_ball: Use coupon code `RELIEF` for  Discount. Offer valid till 30th May 2020 [Install Now](https://octobercms.com/plugin/fytinnovations-helpdesk).  :tada:
-
-:::
-
 ## About
 
 Helpdesk is an issue tracking system built to assist your customer support team. Helpdesk allows your customer to interactively engage with your support team by raising issues, commenting on it and receiving constant updates via email.
