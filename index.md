@@ -12,9 +12,9 @@ features:
 - title: Powerfull Assignee Management
   details: Supervisors can easily assign one or more agents to the ticket. Agents can easily collaborate and resolve high priority tickets which needs to be addressed immediately.
 - title: Track each and every event
-  details: Notification settings panel allows all the stakeholders of the ticket to be  notified on various events such as ticket creation, comment on the ticket, private comments, change of status and many more !
+  details: The notification settings panel allows all the stakeholders of the ticket to be notified of various events such as ticket creation, comment on the ticket, private comments, change of status, and many more!
 - title: Built-in default configurations
-  details: Plugin is ready to be used out of the box, we have made sure to configure the basic settings and seed essential data for you.
+  details: The plugin is ready to be used out of the box, we have made sure to configure the basic settings and seed essential data for you.
 
 
 footer: Copyright © 2018-present FYTInnovations
